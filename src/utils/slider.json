@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Cottage by the Creek",
+    "price": "420,000",
+    "detail": "345 CreekSide Lane, Waterside Haven, OR 97222",
+    "image": "./r1.jpg",
+    "facility": "Creek-side porch, flower garden and nature walking trail."
+  },
+  {
+    "name": "Enchanted Ivy Cottage",
+    "price": "320,000",
+    "detail": "345 Enchantment Lane, Fairytale Forest, OR 97222",
+    "image": "./r21.jpg",
+    "facility": "Cozy fireplace, stained flass windows and driveway."
+  },
+  {
+    "name": "Silver Springs Villa",
+    "price": "950,000",
+    "detail": "678 Crystal Creek Road, Sparkling City, TX 75001",
+    "image": "./r3.png",
+    "facility": "Crystal chandeliers, marble floors, pool and spa."
+  },
+  {
+    "name": "Alpine Escape Cabin",
+    "price": "480,000",
+    "detail": "112 Pine Ridge Retreat, Mountain Meadows, CO 80401",
+    "image": "./r4.jpeg",
+    "facility": "Mountain-view porch, hot tub and rustic fireplace."
+  },
+  {
+    "name": "Rustic Retreat House",
+    "price": "550,000",
+    "detail": "789 Timber Trail, Woodland Springs, CA 94111",
+    "image": "./r51.jpg",
+    "facility": "Country-style porch, wood burning stove and landscape garden."
+  },
+  {
+    "name": "Southern Charm Mansion",
+    "price": "1,100,000",
+    "detail": "678 Magnolia Manor, Sweet Tea City, AZ 85003",
+    "image": "./r6.jpg",
+    "facility": "Grand foyer, home theater, landscape gardens and spa"
+  }
+]

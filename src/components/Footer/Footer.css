@@ -1,0 +1,39 @@
+.f-container{
+    justify-content: space-between;
+}
+.f-container>div>img{
+    width: 9%;
+    height: 9%;
+}
+.f-left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+.f-right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+@media (max-width: 768px) {
+    .f-container{
+        display: flex;
+        justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+    .f-container>div>img{
+        width: 18%;
+        height: 18%;
+    }
+    
+}
